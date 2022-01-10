@@ -1,0 +1,271 @@
+PWD /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.tex
+OUTPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.log
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/elsarticle.cls
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/elsarticle.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.spl
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.spl
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+OUTPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.spl
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/ecrc.sty
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/ecrc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/svg/svg.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/svg/svg.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.aux
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.aux
+OUTPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.aux
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omltxmi.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omltxmi.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omstxsy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omstxsy.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omxtxex.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/omxtxex.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxexa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxexa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/abstract.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/abstract.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxmia.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxmia.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxsyc.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/utxsyc.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/introduction.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/introduction.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txex.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txss.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txss.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txss.tfm
+OUTPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.pdf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txss.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxphvr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxss.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txi.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txi.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txb.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmb.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txi.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txi.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/tcxr.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/methods.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/methods.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/assets/block.png
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/assets/block.png
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/assets/block.png
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/txfonts/tcxr.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtcxr.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/expected.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/expected.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/timeline.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/timeline.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/budget.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/budget.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.bbl
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.bbl
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/annex.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/pages/annex.tex
+INPUT /Users/anupadkh/OneDrive - Gandaki University/Research/CXR_proposal/cxr_proposal.aux
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
