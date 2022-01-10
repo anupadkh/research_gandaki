@@ -1,0 +1,27 @@
+\section{Timeline of the Study}
+
+
+\begin{center}
+    
+    \begin{ganttchart}[
+            hgrid, 
+            vgrid,
+            x unit=1cm,
+        ]{0}{10}
+        \gantttitle{2022}{11} \\
+        \gantttitlelist{0,...,10}{1} \\
+        \ganttgroup{Idea Incubation}{0}{1} \\
+        \ganttbar{Generate Project Ideas}{0}{1} \\
+        \ganttbar{Literature Review and Case Study}{0}{1} \\
+        \ganttbar{Make Research Proposal}{1}{1} \\
+        \ganttgroup{Research}{1}{7} \ganttnewline
+        \ganttbar{Research Granted}{1}{1.5} \ganttnewline
+        \ganttmilestone{Data Collection: Nepal CXR Images}{2} \ganttnewline
+        \ganttlinkedbar{Deep Learning Model Development}{3}{4} \ganttnewline
+        \ganttbar{Training and Testing}{2}{4} \ganttnewline
+        \ganttbar{Experiment}{3}{5} \ganttnewline
+        \ganttbar{Result Analysis and Validation}{5}{6} \ganttnewline
+        \ganttbar{Documentation}{6}{7} \ganttnewline
+        \ganttlink{elem5}{elem6}
+    \end{ganttchart}
+\end{center}
